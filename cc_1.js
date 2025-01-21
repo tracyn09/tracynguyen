@@ -1,10 +1,10 @@
-//Task 1 Variables
-let employeeName = "Tracy Ngyuen"
-const employeeID = "U17147258"
-var  isActive = true
-console.log(typeof employeeName)
-console.log(typeof employeeID)
-console.log(typeof isActive)
+//Task 2 Primitive Data Types
+let productName = "QuickPro"
+const productPrice = 34
+var  isAvailable = true
+console.log(typeof productName)
+console.log(typeof productPrice)
+console.log(typeof isAvailable)
 
 
 
