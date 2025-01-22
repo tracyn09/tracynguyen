@@ -22,3 +22,8 @@ console.log("After Splitting Balance: $" + accountBalance)
 let customerName = "Marvin"
 let welcomeMessage = "Hello," + customerName + "! Thanks for visiting!";
 console.log(welcomeMessage)
+
+//Task 5 Boolean Data Type
+let isLoggedIn = false;
+let isAdmin = true;
+console.log(isLoggedIn && isAdmin);
