@@ -18,3 +18,7 @@ console.log("After 3% Applied Interest: $" + accountBalance)
 accountBalance /= 2;
 console.log("After Splitting Balance: $" + accountBalance)
 
+//Task 4 String Data Type
+let customerName = "Marvin"
+let welcomeMessage = "Hello," + customerName + "! Thanks for visiting!";
+console.log(welcomeMessage)
